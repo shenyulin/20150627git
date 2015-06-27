@@ -1,25 +1,16 @@
 
+这是nodejs的第一节课
 
-如何使用github
-
-1、安装git
-   注：配置环境变量（D:\Program Files\Git\bin）
-2、在本地或者在github上新建一个项目
-3、本地和github关联：
-
-   （1）从github上新建项目，并clone到本地
-       cmd  项目存放路劲
-       git remote add origin https://github.com/shenyulin/20150627git.git
-
-   （2）从地址webstrom中push到github
-       VCS / 项目右键
-       git
-       commit directory  -->
+一、主要内容有：
+1、本地和github的关联；    [github.md]
+2、nodejs创建静态的服务器  [repl]
+3、http协议  [http.md]
+4、console常见方法   [console.js]
 
 
-
-nodejsAPI
-http://nodeapi.ucdok.com/#/api/
+二、扩展点：
+1、计算JS的运行时间；[driver.js]
+2、读文件;  [driver.js]
 
 
 作业：
