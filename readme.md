@@ -16,3 +16,11 @@
        git
        commit directory  -->
 
+
+
+http
+
+
+Q：
+做一个静态文件服务器
+
