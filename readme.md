@@ -12,7 +12,7 @@
        git remote add origin https://github.com/shenyulin/20150627git.git
 
    （2）从地址webstrom中push到github
-       VCS
+       VCS / 项目右键
        git
-       commit file  -->
+       commit directory  -->
 
