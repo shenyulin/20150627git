@@ -12,8 +12,12 @@
 
    （2）从地址webstrom中push到github
        VCS / 项目右键
-       git
+       git -->
        commit directory  -->
+       git -->
+       repository  -->
+       push
+
 
 
 
